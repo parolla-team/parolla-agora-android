@@ -197,7 +197,7 @@ fun SearchAccountProviderView(
 
 @Composable
 private fun HomeserverData.toAccountProvider(): AccountProvider {
-    val isMatrixOrg = homeserverUrl == AuthenticationConfig.MATRIX_ORG_URL
+    val isMatrixOrg = homeserverUrl == AuthenticationConfig.PAROLLA_ORG_URL
     return AccountProvider(
         url = homeserverUrl,
         subtitle = if (isMatrixOrg) stringResource(id = R.string.screen_change_account_provider_matrix_org_subtitle) else null,
