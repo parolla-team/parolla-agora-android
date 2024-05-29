@@ -16,7 +16,9 @@
 
 package io.element.android.features.login.impl.screens.confirmaccountprovider
 
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AccountCircle
@@ -39,7 +41,6 @@ import io.element.android.libraries.designsystem.components.dialogs.ErrorDialog
 import io.element.android.libraries.designsystem.preview.ElementPreview
 import io.element.android.libraries.designsystem.preview.PreviewsDayNight
 import io.element.android.libraries.designsystem.theme.components.Button
-import io.element.android.libraries.designsystem.theme.components.TextButton
 import io.element.android.libraries.matrix.api.auth.OidcDetails
 import io.element.android.libraries.testtags.TestTags
 import io.element.android.libraries.testtags.testTag
@@ -51,7 +52,6 @@ fun ConfirmAccountProviderView(
     onOidcDetails: (OidcDetails) -> Unit,
     onLoginPasswordNeeded: () -> Unit,
     onLearnMoreClicked: () -> Unit,
-    onChange: () -> Unit,
     modifier: Modifier = Modifier,
 ) {
     val isLoading by remember(state.loginFlow) {
@@ -95,14 +95,7 @@ fun ConfirmAccountProviderView(
                         .fillMaxWidth()
                         .testTag(TestTags.loginContinue)
                 )
-                TextButton(
-                    text = stringResource(id = R.string.screen_account_provider_change),
-                    onClick = onChange,
-                    enabled = true,
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .testTag(TestTags.loginChangeServer)
-                )
+                Spacer(modifier = Modifier.height(48.dp))
             }
         }
     ) {
@@ -149,6 +142,5 @@ internal fun ConfirmAccountProviderViewPreview(
         onOidcDetails = {},
         onLoginPasswordNeeded = {},
         onLearnMoreClicked = {},
-        onChange = {},
     )
 }
