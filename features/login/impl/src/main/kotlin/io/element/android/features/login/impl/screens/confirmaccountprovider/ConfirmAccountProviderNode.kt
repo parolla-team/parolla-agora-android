@@ -63,9 +63,6 @@ class ConfirmAccountProviderNode @AssistedInject constructor(
         plugins<Callback>().forEach { it.onLoginPasswordNeeded() }
     }
 
-    private fun onChangeAccountProvider() {
-        plugins<Callback>().forEach { it.onChangeAccountProvider() }
-    }
 
     @Composable
     override fun View(modifier: Modifier) {
@@ -76,7 +73,6 @@ class ConfirmAccountProviderNode @AssistedInject constructor(
             modifier = modifier,
             onOidcDetails = ::onOidcDetails,
             onLoginPasswordNeeded = ::onLoginPasswordNeeded,
-            onChange = ::onChangeAccountProvider,
             onLearnMoreClicked = { openLearnMorePage(context) },
         )
     }
