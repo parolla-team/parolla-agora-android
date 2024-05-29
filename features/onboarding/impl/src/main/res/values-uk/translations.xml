@@ -3,7 +3,7 @@
   <string name="screen_onboarding_sign_in_manually">"Увійти вручну"</string>
   <string name="screen_onboarding_sign_in_with_qr_code">"Увійти за допомогою QR-коду"</string>
   <string name="screen_onboarding_sign_up">"Створити обліковий запис"</string>
-  <string name="screen_onboarding_welcome_message">"Ласкаво просимо до найшвидшого %1$s. Заряджений для швидкості та простоти."</string>
+  <string name="screen_onboarding_welcome_message">"Ласкаво просимо до додатку %1$s Agora, віртуальної сільської площі для легкого обговорення та вивчення корсиканської мови."</string>
   <string name="screen_onboarding_welcome_subtitle">"Ласкаво просимо до додатку %1$s Agora, віртуальної сільської площі для легкого обговорення та вивчення корсиканської мови."</string>
   <string name="screen_onboarding_welcome_title">"Приєднуйтесь до Корсиканської Агори"</string>
 </resources>

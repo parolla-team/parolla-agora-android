@@ -3,7 +3,7 @@
   <string name="screen_onboarding_sign_in_manually">"Logga in manuellt"</string>
   <string name="screen_onboarding_sign_in_with_qr_code">"Logga in med QR-kod"</string>
   <string name="screen_onboarding_sign_up">"Skapa konto"</string>
-  <string name="screen_onboarding_welcome_message">"Välkommen till den snabbaste %1$s någonsin. Superladdad för snabbhet och enkelhet."</string>
+  <string name="screen_onboarding_welcome_message">"Välkommen till %1$s Agora-appen, det virtuella bytorgen för att diskutera och lära sig korsikanska enkelt."</string>
   <string name="screen_onboarding_welcome_subtitle">"Välkommen till %1$s Agora-appen, det virtuella bytorgen för att diskutera och lära sig korsikanska enkelt."</string>
   <string name="screen_onboarding_welcome_title">"Gå med i Korsikanska Agora"</string>
 </resources>
