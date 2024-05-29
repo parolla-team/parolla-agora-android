@@ -4,6 +4,6 @@
   <string name="screen_onboarding_sign_in_with_qr_code">"Přihlásit se pomocí QR kódu"</string>
   <string name="screen_onboarding_sign_up">"Vytvořit účet"</string>
   <string name="screen_onboarding_welcome_message">"Vítejte u dosud nejrychlejšího %1$su. Vylepšený pro rychlost a jednoduchost."</string>
-  <string name="screen_onboarding_welcome_subtitle">"Vítejte v aplikaci Parolla Agora, virtuálním vesnickém náměstí pro snadnou diskusi a učení korsičtiny."</string>
+  <string name="screen_onboarding_welcome_subtitle">"Vítejte v aplikaci %1$s Agora, virtuálním vesnickém náměstí pro snadnou diskusi a učení korsičtiny."</string>
   <string name="screen_onboarding_welcome_title">"Připojte se k Korsické Agoře"</string>
 </resources>

@@ -3,7 +3,7 @@
   <string name="screen_onboarding_sign_in_manually">"Увайдзіце ўручную"</string>
   <string name="screen_onboarding_sign_in_with_qr_code">"Увайдзіце з QR-кодам"</string>
   <string name="screen_onboarding_sign_up">"Стварыць уліковы запіс"</string>
-  <string name="screen_onboarding_welcome_message">"Сардэчна запрашаем у дадатак Parolla Agora, віртуальную вясковую плошчу для абмеркавання і вывучэння карсікскага з лёгкасцю."</string>
-  <string name="screen_onboarding_welcome_subtitle">"Сардэчна запрашаем у дадатак Parolla Agora, віртуальную вясковую плошчу для абмеркавання і вывучэння карсікскага з лёгкасцю."</string>
+  <string name="screen_onboarding_welcome_message">"Сардэчна запрашаем у дадатак %1$s Agora, віртуальную вясковую плошчу для абмеркавання і вывучэння карсікскага з лёгкасцю."</string>
+  <string name="screen_onboarding_welcome_subtitle">"Сардэчна запрашаем у дадатак %1$s Agora, віртуальную вясковую плошчу для абмеркавання і вывучэння карсікскага з лёгкасцю."</string>
   <string name="screen_onboarding_welcome_title">"Далучайцеся да Корсиканскай Агоре"</string>
 </resources>

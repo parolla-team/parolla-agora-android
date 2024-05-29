@@ -4,6 +4,6 @@
   <string name="screen_onboarding_sign_in_with_qr_code">"Bejelentkezés QR-kóddal"</string>
   <string name="screen_onboarding_sign_up">"Fiók létrehozása"</string>
   <string name="screen_onboarding_welcome_message">"Üdvözöljük a valaha volt leggyorsabb %1$sben. Felturbózva, a sebesség és az egyszerűség érdekében."</string>
-  <string name="screen_onboarding_welcome_subtitle">"Üdvözöljük a Parolla Agora alkalmazásban, a virtuális falusi téren, ahol könnyedén beszélgethet és tanulhat korzikait."</string>
+  <string name="screen_onboarding_welcome_subtitle">"Üdvözöljük a %1$s Agora alkalmazásban, a virtuális falusi téren, ahol könnyedén beszélgethet és tanulhat korzikait."</string>
   <string name="screen_onboarding_welcome_title">"Csatlakozzon a Korzikai Agorához"</string>
 </resources>
