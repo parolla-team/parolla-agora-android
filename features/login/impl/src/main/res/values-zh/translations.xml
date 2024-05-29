@@ -19,7 +19,7 @@
   <string name="screen_change_server_error_no_sliding_sync_message">"该服务器目前不支持sliding sync。"</string>
   <string name="screen_change_server_form_header">"主服务器网址"</string>
   <string name="screen_change_server_form_notice">"您只能连接到支持sliding sync的现有服务器。您的主服务器管理员需要对其进行配置。%1$s"</string>
-  <string name="screen_change_server_subtitle">"您的服务器地址是什么？"</string>
+    <string name="screen_change_server_subtitle">"您的服务器地址是什么？"</string>
   <string name="screen_change_server_title">"选择服务器"</string>
   <string name="screen_login_error_deactivated_account">"该账户已被停用。"</string>
   <string name="screen_login_error_invalid_credentials">"错误的用户名和/或密码"</string>

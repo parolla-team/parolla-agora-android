@@ -24,7 +24,7 @@
   <string name="screen_login_error_invalid_user_id">"მოცემული მომხმარებლის იდენტიფიკატორი არასწორია. დასაშვები ფორმატი: ‘@user:homeserver.org’"</string>
   <string name="screen_login_error_unsupported_authentication">"მოცემული სახლის სერვერი მხარს არ უჭერს პაროლით ან OIDC-ით შესვლას. გთხოვთ, დაუკავშირდეთ თქვენს ადმინისტრატორს ან აარჩიეთ სხვა სახლის სერვერი."</string>
   <string name="screen_login_form_header">"შეიყვანეთ თქვენი დეტალები"</string>
-  <string name="screen_login_subtitle">"Matrix არის ღია ქსელი უსაფრთხო, დეცენტრალიზებული კომუნიკაციისთვის."</string>
+    <string name="screen_login_subtitle">"Parolla Agora არის ვირტუალური სოფლის მოედანი"</string>
   <string name="screen_login_title">"კეთილი იყოს თქვენი მობრძანება!"</string>
   <string name="screen_login_title_with_homeserver">"შესვლა %1$s-ში"</string>
   <string name="screen_server_confirmation_change_server">"შეცვალეთ ანგარიშის მომწოდებელი"</string>

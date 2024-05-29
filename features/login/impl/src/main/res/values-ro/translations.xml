@@ -27,7 +27,7 @@
   <string name="screen_login_error_refresh_tokens">"Acest server este configurat pentru a utiliza token-uri de reîmprospătare. Acestea nu sunt acceptate atunci când utilizați autentificare bazată pe parolă."</string>
   <string name="screen_login_error_unsupported_authentication">"Homeserver-ul selectat nu acceptă autentificarea prin parola sau OIDC. Te rugăm să contactezi administratorul sau să alegi un alt homeserver."</string>
   <string name="screen_login_form_header">"Introduceți detaliile"</string>
-  <string name="screen_login_subtitle">"Matrix este o rețea deschisă pentru o comunicare sigură și descentralizată."</string>
+    <string name="screen_login_subtitle">"Parolla Agora este piața virtuală a satului"</string>
   <string name="screen_login_title">"Bine ați revenit!"</string>
   <string name="screen_login_title_with_homeserver">"Conectați-vă la %1$s"</string>
   <string name="screen_server_confirmation_change_server">"Schimbați furnizorul contului"</string>

@@ -27,7 +27,7 @@
   <string name="screen_login_error_refresh_tokens">"Ce serveur est configuré pour utiliser des tokens d’actualisation. Ils ne sont pas pris en charge lors de l’utilisation d’une connexion basée sur un mot de passe."</string>
   <string name="screen_login_error_unsupported_authentication">"Le serveur d’accueil sélectionné ne prend pas en charge le mot de passe ou la connexion OIDC. Contactez votre administrateur ou choisissez un autre serveur d’accueil."</string>
   <string name="screen_login_form_header">"Saisissez vos identifiants"</string>
-  <string name="screen_login_subtitle">"Matrix est un réseau ouvert pour une communication sécurisée et décentralisée."</string>
+    <string name="screen_login_subtitle">"Parolla Agora est la place virtuelle du village"</string>
   <string name="screen_login_title">"Content de vous revoir !"</string>
   <string name="screen_login_title_with_homeserver">"Connectez-vous à %1$s"</string>
   <string name="screen_server_confirmation_change_server">"Changer de fournisseur de compte"</string>
