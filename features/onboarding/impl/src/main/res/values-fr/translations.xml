@@ -3,7 +3,7 @@
   <string name="screen_onboarding_sign_in_manually">"Se connecter manuellement"</string>
   <string name="screen_onboarding_sign_in_with_qr_code">"Se connecter avec un QR code"</string>
   <string name="screen_onboarding_sign_up">"Créer un compte"</string>
-  <string name="screen_onboarding_welcome_message">"Bienvenue dans l’application %1$s la plus rapide de tous les temps. Boosté pour plus de rapidité et de simplicité."</string>
-  <string name="screen_onboarding_welcome_subtitle">"Bienvenue sur %1$s. Boosté, pour plus de rapidité et de simplicité."</string>
-  <string name="screen_onboarding_welcome_title">"Soyez dans votre Element"</string>
+  <string name="screen_onboarding_welcome_message">"Bienvenido a la aplicación %1$s Agora, la plaza virtual del pueblo para discutir y aprender corso con facilidad."</string>
+  <string name="screen_onboarding_welcome_subtitle">"Bienvenido a la aplicación %1$s Agora, la plaza virtual del pueblo para discutir y aprender corso con facilidad."</string>
+  <string name="screen_onboarding_welcome_title">"Rejoignez l'Agora Corse"</string>
 </resources>
