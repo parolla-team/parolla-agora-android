@@ -17,8 +17,8 @@
 package io.element.android.appconfig
 
 object AuthenticationConfig {
-    const val MATRIX_ORG_URL = "https://matrix.org"
+    const val PAROLLA_ORG_URL = "https://parolla.chat"
 
-    const val DEFAULT_HOMESERVER_URL = MATRIX_ORG_URL
+    const val DEFAULT_HOMESERVER_URL = PAROLLA_ORG_URL
     const val SLIDING_SYNC_READ_MORE_URL = "https://github.com/matrix-org/sliding-sync/blob/main/docs/Landing.md"
 }

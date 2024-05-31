@@ -27,7 +27,7 @@
   <string name="screen_login_error_refresh_tokens">"Server ini diatur untuk menggunakan token penyegaran. Ini tidak didukung ketika menggunakan log masuk berbasis kata sandi."</string>
   <string name="screen_login_error_unsupported_authentication">"Homeserver yang dipilih tidak mendukung log masuk kata sandi atau OIDC. Silakan hubungi admin Anda atau pilih homeserver yang lain."</string>
   <string name="screen_login_form_header">"Masukkan detail Anda"</string>
-  <string name="screen_login_subtitle">"Matrix adalah jaringan terbuka untuk komunikasi yang aman dan terdesentralisasi."</string>
+    <string name="screen_login_subtitle">"Parolla Agora adalah alun-alun desa virtual"</string>
   <string name="screen_login_title">"Selamat datang kembali!"</string>
   <string name="screen_login_title_with_homeserver">"Masuk ke %1$s"</string>
   <string name="screen_server_confirmation_change_server">"Ubah penyedia akun"</string>

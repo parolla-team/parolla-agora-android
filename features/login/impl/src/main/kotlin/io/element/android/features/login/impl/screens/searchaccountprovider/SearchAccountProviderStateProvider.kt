@@ -50,7 +50,7 @@ fun aHomeserverDataList(): List<HomeserverData> {
 }
 
 fun aHomeserverData(
-    homeserverUrl: String = AuthenticationConfig.MATRIX_ORG_URL,
+    homeserverUrl: String = AuthenticationConfig.PAROLLA_ORG_URL,
     isWellknownValid: Boolean = true,
     supportSlidingSync: Boolean = true,
 ): HomeserverData {

@@ -27,7 +27,7 @@
   <string name="screen_login_error_refresh_tokens">"Questo server è configurato per usare i token di aggiornamento. Non sono supportati quando si usa l\'accesso basato su password."</string>
   <string name="screen_login_error_unsupported_authentication">"L\'homeserver selezionato non supporta la password o l\'accesso OIDC. Contatta il tuo amministratore o scegli un altro homeserver."</string>
   <string name="screen_login_form_header">"Inserisci i tuoi dati"</string>
-  <string name="screen_login_subtitle">"Matrix è una rete aperta per comunicazioni sicure e decentralizzate."</string>
+    <string name="screen_login_subtitle">"Parolla Agora è la piazza virtuale del villaggio"</string>
   <string name="screen_login_title">"Bentornato!"</string>
   <string name="screen_login_title_with_homeserver">"Accedi a %1$s"</string>
   <string name="screen_server_confirmation_change_server">"Cambia fornitore dell\'account"</string>

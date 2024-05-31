@@ -33,7 +33,7 @@ class ChangeAccountProviderPresenter @Inject constructor(
             // Just matrix.org by default for now
             accountProviders = listOf(
                 AccountProvider(
-                    url = AuthenticationConfig.MATRIX_ORG_URL,
+                    url = AuthenticationConfig.PAROLLA_ORG_URL,
                     subtitle = null,
                     isPublic = true,
                     isMatrixOrg = true,
